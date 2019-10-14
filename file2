@@ -1,0 +1,25 @@
+    1  ls
+    2  pwd
+    3  mkdir CS216
+    4  cd CS216
+    5  mkdir Lab1
+    6  cd Lab1
+    7  pwd > file1
+    8  cat file1
+    9  ls -l
+   10  ls -l >> file1
+   11  LS
+   12  cowsay "Hello, Chengxi Li. I am Brandon Bray." >> file1
+   13  cat file1
+   14  echo shell
+   15  echo $shell
+   16  echo $SHELL
+   17  history > file2
+                                                                             
+ mmmmmm           "                          mmm   mmmm   mmmm  mmm      mmm 
+ #      m mm    mmm    mmm   m   m         m"   " #"   " "   "#   #    m"   "
+ #mmmmm #"  #     #   #" "#  "m m"         #      "#mmm      m"   #    #m""#m
+ #      #   #     #   #   #   #m#          #          "#   m"     #    #    #
+ #mmmmm #   #     #   "#m#"   "#            "mmm" "mmm#" m#mmmm mm#mm   #mm#"
+                  #           m"                                             
+                ""           ""                                              
